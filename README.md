@@ -31,3 +31,4 @@
       ```bash
       sudo upgrade_tool uf update.img
       ```
+6) Пользователь системы firefly, пароль по умолчанию: firefly
