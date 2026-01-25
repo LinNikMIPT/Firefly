@@ -41,7 +41,6 @@
 
 ## Подключение реле
 Для управления реле через Firefly используется Arduino Nano. Подключается по такой схеме: Firefly (USB через USB хаб)<->(mini USB) Arduino Nano (GND, D2)<-> Реле.
-
 <figure style="text-align: center;">
     <img src="Images/HLS8L-DC5V-S-C_5V-10A.jpg" width="300">
     <figcaption>Рисунок 1: Схема реле HLS8L-DC5V-S</figcaption>
